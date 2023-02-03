@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hello, I am Milen
 
-🌱 I’m currently learning at microverse.<br>👯 I’m looking to collaborate with other software developers.<br>🥅 2022 Goals: Learn more about Front end Frameworks and  Backend development.<br>⚡ Fun fact: I love traveling 
+🌱 I’m currently learning at Microverse.<br>👯 I’m looking to collaborate with other software developers.<br>🥅 2023 Goals: Learn more about Back-End devlopment.<br>⚡ Fun fact: I love traveling 
 
 
 ## 🌐 Socials:
