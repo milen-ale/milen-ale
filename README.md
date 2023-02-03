@@ -1,9 +1,8 @@
 # 💫 About Me:
 # Hello, I am Milen
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" height="430" width="500" /> 
 
 🌱 I’m currently learning at Microverse.<br>👯 I’m looking to collaborate with other software developers.<br>🥅 2023 Goals: Learn more about Back-End devlopment.<br>⚡ Fun fact: I love traveling 
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MilenAlebel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milenalebel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MilenAlebel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/milenalebel) 
 
