@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hello, I am Milen
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" height="330" width="400" /> 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" height="330" width="300" /> 
 
 🌱 I’m currently learning at Microverse.<br>👯 I’m looking to collaborate with other software developers.<br>🥅 2023 Goals: Learn more about Back-End devlopment.<br>⚡ Fun fact: I love traveling 
 ## 🌐 Socials:
