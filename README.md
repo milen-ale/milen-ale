@@ -2,7 +2,7 @@
 
 ### Senior Backend Engineer | Full-Stack Software Engineer
 
-I’m a software engineer with **5+ years of experience building backend systems, APIs, and web applications**. I specialize in Node.js and TypeScript, with hands-on experience designing RESTful APIs, implementing authentication and authorization, working with relational and NoSQL databases, and deploying applications to production environments.
+I’m a software engineer with **4+ years of experience building backend systems, APIs, and web applications**. I specialize in Node.js and TypeScript, with hands-on experience designing RESTful APIs, implementing authentication and authorization, working with relational and NoSQL databases, and deploying applications to production environments.
 
 I enjoy solving complex engineering problems, building reliable and maintainable software, and turning business requirements into practical technical solutions.
 
